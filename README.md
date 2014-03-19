@@ -7,11 +7,15 @@ Try to save you from **tl;dr** state of mind.
 **Three** はGitterというチャットサービスでコンテンツを提供していきます。  
 途中で方針を変えるかも知れませんが、とりあえずMVPということで。
 
+[Gitter/studiomohawk/three](https://gitter.im/studiomohawk/three)
+
+[![Gitter chat](https://badges.gitter.im/studiomohawk/three.png)](https://gitter.im/studiomohawk/three)
+
 * * *
 
-記事によっては3行にまとめるのが難しいものもありますが、Issueにてリクエストも受け付けています。(全部のリクエストをうけられるわけではないです、あらかじめ)
+記事によっては3行にまとめるのが難しいものもありますが、[Issue](https://github.com/studiomohawk/three/issues/new)にてリクエストも受け付けています。(全部のリクエストをうけられるわけではないです、あらかじめ)
 
-質問などもIssueにて。
+質問なども[Issue](https://github.com/studiomohawk/three/issues/new)にて。
 
 最後に、大事なルールを1つ:  
 **Respect!**
