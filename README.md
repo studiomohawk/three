@@ -1,6 +1,6 @@
 # Three
 
-Save you from **tl;dr** state of mind.
+Try to save you from **tl;dr** state of mind.
 
 **Three** は英語のフロントエンドな記事を(大体)3行にまとめて紹介しています。
 
