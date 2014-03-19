@@ -11,6 +11,9 @@ Try to save you from **tl;dr** state of mind.
 
 [![Gitter chat](https://badges.gitter.im/studiomohawk/three.png)](https://gitter.im/studiomohawk/three)
 
+チャットなので、コメントや質問なども投げていただいてかまいませんし、
+**3行要約を投稿してもらってもかまいません**。
+
 * * *
 
 記事によっては3行にまとめるのが難しいものもありますが、[Issue](https://github.com/studiomohawk/three/issues/new)にてリクエストも受け付けています。(全部のリクエストをうけられるわけではないです、あらかじめ)
